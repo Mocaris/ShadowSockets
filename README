@@ -5,3 +5,7 @@ IOS:
 ShadowSockets:
 Mac:
 
+配置文件可以用提供的config，
+也可以参考：
+https://github.com/h2y/Shadowrocket-ADBlock-Rules
+
