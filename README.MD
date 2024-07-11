@@ -10,8 +10,8 @@ Mac:
 <https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash>
 
 
+自用机场推荐(可白嫖,提供有免费机场),注册账号即可白嫖免费节点
 
+[自用 ikuuu](https://ikuuu.pw/auth/register?code=KutA)
 
-自用机场推荐 ，延迟低
-最低9元/月，59元/年
-[自用机场](https://98ka.men/#/register?code=bNn2qaEl)
+[自用 超实惠](http://cshjc.shop/web/#/login?code=svmc5kzK)
