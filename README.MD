@@ -10,6 +10,8 @@ Shadowrocket:
 工具推荐使用 
 Windows Linux Mac : [clash verge](https://github.com/clash-verge-rev/clash-verge-rev)
 
+iOS 有条件的推荐购买
+小火箭Shadowrocket或者Loon，这两个支持协议比较全，性价比最高
 
 Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 
@@ -17,7 +19,6 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 [ACL4SSR](https://acl4ssr-sub.github.io)
 
 [suburl.v1.mk](https://suburl.v1.mk)
-
 
 -----------------
 
