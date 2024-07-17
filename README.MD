@@ -21,8 +21,10 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 
 -----------------------------------------------------
 
-自用机场推荐(可白嫖,提供有免费机场),注册账号即可白嫖免费节点
+自用机场推荐(可白嫖,提供有免费节点)
 
-[自用 机场1](https://ikuuu.pw/auth/register?code=KutA)
+[自用机场(mikado 速度快+稳定)](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
 
-[自用 机场2](http://cshjc.shop/web/#/login?code=svmc5kzK)
+[自用机场(ikuuu 可白嫖)](https://ikuuu.pw/auth/register?code=KutA)
+
+[自用机场(超实惠 85折优惠码: 85off55)](http://cshjc.shop/web/#/login?code=svmc5kzK)
