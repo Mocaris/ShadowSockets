@@ -19,11 +19,12 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 [suburl.v1.mk](https://suburl.v1.mk)
 
 
------------------------------------------------------
+-----------------
 
-自用机场推荐(可白嫖,提供有免费节点)
+自用机场推荐(可白嫖,提供有免费节点)，
+建议都注册一个账号体验一下，选择合适的
 
-[自用机场(mikado 速度快+稳定)](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
+[自用机场(mikado 速度快)](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
 
 [自用机场(ikuuu 可白嫖)](https://ikuuu.pw/auth/register?code=KutA)
 
