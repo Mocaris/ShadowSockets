@@ -22,7 +22,8 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 -----------------
 
 自用机场推荐(可白嫖,提供有免费节点)，
-建议都注册一个账号体验一下，选择合适的
+建议都注册一个账号体验一下，选择合适的。
+推荐月付，机场都有跑路风险。
 
 [自用机场(mikado 速度快)](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
 
