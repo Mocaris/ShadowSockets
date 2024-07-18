@@ -26,8 +26,8 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 建议都注册一个账号体验一下，选择合适的。
 推荐月付，机场都有跑路风险。
 
-[自用机场(mikado 速度快)](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
+[mikado (速度快)¥10/月](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
 
-[自用机场(ikuuu 可白嫖)](https://ikuuu.pw/auth/register?code=KutA)
+[ikuuu (提供免费节点)¥12/月](https://ikuuu.pw/auth/register?code=KutA)
 
-[自用机场(超实惠 85折优惠码: 85off55)](http://cshjc.shop/web/#/login?code=svmc5kzK)
+[超实惠 (85折优惠码: 85off55),¥35/年](http://cshjc.shop/web/#/login?code=svmc5kzK)
