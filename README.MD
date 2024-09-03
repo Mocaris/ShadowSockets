@@ -30,4 +30,3 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 
 [超实惠 (85折优惠码: 85off55)](http://cshjc.shop/web/#/login?code=svmc5kzK)
 
-[mikado](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
