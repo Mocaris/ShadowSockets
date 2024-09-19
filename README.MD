@@ -28,6 +28,8 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 
 [ikuuu (白嫖付费推荐)](https://ikuuu.pw/auth/register?code=KutA)
 
-[超实惠 (85折优惠码: 85off55)](http://cshjc.shop/web/#/login?code=svmc5kzK)
+[FreeCloud 白嫖推荐](https://www.intel.im/#/register?code=3AD7Ki9R)
 
-[mikado](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)
+~~[超实惠 (85折优惠码: 85off55)](http://cshjc.shop/web/#/login?code=svmc5kzK)~~
+
+~~[mikado](https://mk.mikadonet.xyz/#/register?code=4Z3RvQFJ)~~
