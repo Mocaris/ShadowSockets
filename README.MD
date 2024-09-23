@@ -28,6 +28,9 @@ Android  : [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid)
 
 [ikuuu (白嫖付费推荐)](https://ikuuu.pw/auth/register?code=KutA)
 
+[最强机场 付费推荐(实惠,速度快)](https://zqjc.org/#/register?code=AOlx60dH)
+[最强机场 国内访问](https://最强机场.com/#/register?code=AOlx60dH)
+
 [FreeCloud 白嫖推荐](https://www.intel.im/#/register?code=3AD7Ki9R)
 
 ~~[超实惠 (85折优惠码: 85off55)](http://cshjc.shop/web/#/login?code=svmc5kzK)~~
